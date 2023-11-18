@@ -1,18 +1,34 @@
-## Hey 👋, This is Gaurav
-[![Gmail Badge](https://img.shields.io/badge/-gauravmittal54bd@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gauravmittal54bd@gmail.com)](mailto:gauravmittal54bd@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-gauravmittal-301972201-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gauravmittal-301972201/)](https://www.linkedin.com/in/gauravmittal-301972201/) [![Github Badge](https://img.shields.io/badge/-gauravmittal54-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gauravmittal54/)](https://www.github.com/gauravmittal54/) <p align='left'>🔭 I’m currently working on Weekly-habit-tracking-app
+<h1 align="center">Hi 👋, I'm Gaurav Mittal</h1>
+<h3 align="center">Creative and motivated fullstack web developer with a great interest in coding</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🌱 I’m currently learning ReactJs
+- 🔭 I’m currently working on [Weekly-habit-tracking-app](https://github.com/gauravmittal54/Weekly-habit-tracking-app)
 
-💬 Ask me about NodeJs ,MongoDb , MYSQL , REST API's , .NET
+- 🌱 I’m currently learning **ReactJs**
 
-📫 How to reach me gauravmittal54bd@gmail.com
+- 💬 Ask me about **NodeJs, MongoDB, MYSQL, REST API's, .NET**
 
-📄 Check my resume to know more about my experiences 
+- 📫 How to reach me **gauravmittal54bd@gmail.com**
 
-⚡ Fun fact I think I am funny</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1zbuByoxc7AlADyrvAY0kVlqKYsx0CUik/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=gauravmittal54 alt=gauravmittal54 /> </p>
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zbuByoxc7AlADyrvAY0kVlqKYsx0CUik/view?usp=sharing)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=gauravmittal54&show_icons=true&include_all_commits=true)](https://github.com/gauravmittal54/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmittal54&layout=compact)](https://github.com/gauravmittal54/github-readme-stats)
+- ⚡ Fun fact **I think I am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gaurav-mittal-301972201" target="blank"><img align="center" src="![LinkedIn](https://github.com/gauravmittal54/gauravmittal54/assets/61792468/4c84bb5f-797a-44ca-8d43-ee60cbeaec96)" alt="gaurav-mittal-301972201" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gauravmittal54bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gauravmittal54bd" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/gauravmittal54bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gauravmittal54bd" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<!-- Add your icons and links here, for example: -->
+<!-- <a href="LINK_TO_YOUR_PROFILE_OR_PROJECT" target="_blank" rel="noreferrer"> <img src="ICON_URL" alt="ALT_TEXT" width="40" height="40"/> </a> -->
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravmittal54&show_icons=true&locale=en&layout=compact" alt="gauravmittal54" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravmittal54&show_icons=true&locale=en" alt="gauravmittal54" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravmittal54&" alt="gauravmittal54" /></p>
